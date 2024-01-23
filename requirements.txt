@@ -1,0 +1,12 @@
+jsonlines==4.0.0
+nltk==3.8.1
+numpy==1.26.3
+POT==0.9.3
+rouge_metric==1.0.1
+scikit_learn==0.24.2
+scipy==1.6.3
+sentence_transformers==2.2.2
+torch==1.13.1+cu117
+tqdm==4.64.0
+train==0.0.5
+transformers==4.28.1
