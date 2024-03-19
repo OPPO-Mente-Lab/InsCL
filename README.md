@@ -1,5 +1,5 @@
 # InsCL: Instruction-based Continual Learning
-This repository contains code for the paper "[InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with instructions](https://openreview.net/forum?id=c2YfFbNHax3)".
+This repository contains code for the paper "[InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with instructions](https://arxiv.org/abs/2403.11435)".
 We propose a novel paradigm called Instruction-based Continual Learning (InsCL). 
 InsCL dynamically replays previous data based on task similarity, calculated by Wasserstein Distance with instructions. 
 And we further introduce an Instruction Information Metric (InsInfo) to quantify the complexity and diversity of instructions. According to InsInfo, InsCL guides the replay process more inclined to high-quality data.
